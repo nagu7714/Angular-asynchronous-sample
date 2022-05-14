@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/angular-async/.vscode
+/angular-async/package-lock.json
